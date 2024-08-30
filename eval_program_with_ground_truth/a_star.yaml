@@ -1,0 +1,10 @@
+version: '3.0'
+# A*
+amplify: 100 #0.01  #  m 2 cm
+v_max: 2000 # [mm/s] speed
+acc_linear: 1000  # [mm/s2] acceleration
+show_animation: False # Show the planned path
+grid_size: 10  # [cm] Mesh size 10cm = 1dm
+robot_radius: 20  # [cm]
+sim : True
+
