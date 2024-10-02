@@ -9,7 +9,7 @@ Project website:[https://dogplanningloyo.github.io/DGN/](https://dogplanningloyo
 ## Abstract
 
 Comparison between DGN and mainstream visual navigation methods. Mainstream visual navigation methods (Other methods) rely on RGBD input or driven by language, constructing semantic maps with tightly coupled perception modules, resulting in storage-consuming deployments. Our method (DGN) only utilizes RGBD input and constructs an Internal Knowledge Graph (IKG) using a plug-and-play instance-aware module, recording semantic information and topological relationships of instances while dynamically updating the External Knowledge Graph (EKG) with object category correlation. This enables efficient navigation that is deployable on low-power, low-computation edge devices.
-
+![Image cannot be displayed due to network or browser limitations](./Material_files/Figure_0.png "The overview of DGN")
 ## Demonstration
 
 <video width="1080" height="720" controls>
