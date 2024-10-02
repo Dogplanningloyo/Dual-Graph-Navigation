@@ -441,9 +441,4 @@ if __name__ == '__main__':
     print("Reading data deal")
     # statistics_data()
     only_no_map_statistics_data()
-    # data_vis()
-    # stastic_data_path = './data_statistics_deal/'
-    # data_deal_dirs = './data_statistics_deal/'
-    # csv_file_path = 'pro_obj_name_statistics.csv'
-    # compute_objects(data_deal_dirs, csv_file_path)
-    # data_from_prothor(data_deal_dirs)#
+
