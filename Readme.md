@@ -12,10 +12,8 @@ Comparison between DGN and mainstream visual navigation methods. Mainstream visu
 ![Image cannot be displayed due to network or browser limitations](./Material_files/Figure_0.png "The overview of DGN")
 ## Demonstration
 
-<video width="1080" height="720" controls>
-    <source src="./Material_files/process_visual.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+![Gif cannot be displayed due to network or browser limitations](./Material_files\process_visual.gif "IKG and EKG visualisation during DGN exploration")
+
 This is a visualisation of the construction process of IKG and EKG in DGN when exploring an unknown environment.
 
 ## Simulation and Datasets
