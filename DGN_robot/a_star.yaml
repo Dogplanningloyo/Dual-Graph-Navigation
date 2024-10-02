@@ -1,0 +1,10 @@
+version: '3.0' #版本号
+# A*
+amplify: 100 #0.1  # 放大倍数 de dao shu 控制规划速度 ? Something don't use????? NO Fixme!!! m 2 cm??
+v_max: 2000 # [mm/s] 速度
+acc_linear: 1000  # [mm/s2] 加速度
+show_animation: False # 是否显示规划路径
+grid_size: 10  # [cm] 网格大小 10cm = 1dm 因为amplify=100 1000mm / amplify = 10mm = 1cm
+robot_radius: 35  # [cm] 半径
+sim : True
+

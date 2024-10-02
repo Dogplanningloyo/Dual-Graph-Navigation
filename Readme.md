@@ -39,6 +39,12 @@ python data_deal.py
 ```
 The visual results will be saved in the **DGN_eval_file/process_data_eval**
 
+# DGN robot eval
+If you need to run on a full-featured robot, adapted to different platforms, you can run the following code (note that it is debugged according to different performance devices and parameters to obtain performance that meets the needs)
+```
+cd DGN_robot
+python embodied_navigation.py
+```
 ## Citation
 ```Bibtex
 @inproceedings{DGN,
