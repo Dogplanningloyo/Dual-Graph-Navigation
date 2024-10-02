@@ -12,7 +12,10 @@ Comparison between DGN and mainstream visual navigation methods. Mainstream visu
 ![Image cannot be displayed due to network or browser limitations](./Material_files/Figure_0.png "The overview of DGN")
 ## Demonstration
 
-![Gif cannot be displayed due to network or browser limitations](./Material_files\process_visual.gif "IKG and EKG visualisation during DGN exploration")
+
+
+<div align=""> <img src=https://github.com/Dogplanningloyo/Dual-Graph-Navigation/blob/main/Material_files/process_vusual.gif width="100%">
+</div>
 
 This is a visualisation of the construction process of IKG and EKG in DGN when exploring an unknown environment.
 
