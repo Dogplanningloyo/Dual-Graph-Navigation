@@ -1,0 +1,44 @@
+# Dual-Graph Navigation Evaluation Program Requirements
+# Core AI2Thor and Robotics Dependencies
+ai2thor>=4.0.0
+prior>=0.0.1
+
+# Computer Vision and Image Processing
+opencv-python>=4.8.0
+ultralytics>=8.0.0
+lightglue>=1.1.0
+superpoint>=1.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# 3D Processing and Point Clouds
+open3d>=0.17.0
+numpy>=1.24.0
+
+# Graph Processing and Database
+networkx>=3.0
+py2neo>=2021.2.0
+graphdatascience>=1.0.0
+
+# Data Processing and Analysis
+pandas>=2.0.0
+matplotlib>=3.7.0
+tqdm>=4.65.0
+
+# Configuration and Utilities
+pyyaml>=6.0
+pickle5>=0.0.11
+
+# Multiprocessing and System
+multiprocessing-logging>=0.3.0
+
+# Optional: For RealSense camera support (if using physical hardware)
+# pyrealsense2>=2.50.0
+
+# Optional: For TensorRT acceleration (if available)
+# tensorrt>=8.0.0
+
+# Development and Testing (optional)
+# pytest>=7.0.0
+# black>=23.0.0
+# flake8>=6.0.0 
